@@ -11,9 +11,6 @@ public class file1 {
         System.out.println("first java");
         System.out.println("Second java");
     }
-<<<<<<< HEAD
-    
-=======
     //instantiate the class and call add() dev_branch
     File1 f1 =new File1();
     f1.add();
